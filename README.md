@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xBlackMistx
+- 👋 Hi, I’m Byron Newstead
 - 👀 I’m interested in everything technological.
 - 🌱 I’m currently learning HTML, CSS and JavaScript. Networking and security as well.
 - 💞️ I’m looking to collaborate on as much as possible
